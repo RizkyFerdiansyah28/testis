@@ -1,0 +1,7 @@
+C:\Users\MUHAMMAD RIZKY F\source\repos\array5\array5\bin\Debug\array5.exe.config
+C:\Users\MUHAMMAD RIZKY F\source\repos\array5\array5\bin\Debug\array5.exe
+C:\Users\MUHAMMAD RIZKY F\source\repos\array5\array5\bin\Debug\array5.pdb
+C:\Users\MUHAMMAD RIZKY F\source\repos\array5\array5\obj\Debug\array5.csproj.AssemblyReference.cache
+C:\Users\MUHAMMAD RIZKY F\source\repos\array5\array5\obj\Debug\array5.csproj.CoreCompileInputs.cache
+C:\Users\MUHAMMAD RIZKY F\source\repos\array5\array5\obj\Debug\array5.exe
+C:\Users\MUHAMMAD RIZKY F\source\repos\array5\array5\obj\Debug\array5.pdb
